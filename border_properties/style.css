@@ -1,0 +1,7 @@
+.sohag{
+    /* border: 5px solid red; in one line*/
+    border-width: 5px 10px 40px;
+    border-style: solid dotted;
+    border-color: blue red yellow;
+    border-radius: 10px;
+}

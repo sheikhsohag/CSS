@@ -1,0 +1,11 @@
+h2{
+    font-family: Times;  /* font type */
+    font-size: 3em;   /* same as px */
+    font-style: italic;
+    font-weight: 400;
+}
+
+p{
+    font-weight: 700; /*bold 700 or 400 */
+    font-variant: small-caps;  /*capital but small */
+}
