@@ -1,0 +1,14 @@
+.sohag{
+    width: 150px;
+    height: 200px;
+    border: 2px solid green;
+
+    /* all contain outside of the border 
+    it is overflow now apply this 
+    properties */
+    
+    /* overflow: visible; */
+    /* overflow: hidden; */
+    overflow: scroll;
+    /* overflow: auto; */
+}

@@ -1,0 +1,23 @@
+h2{
+    /* text-align: center; */
+
+    display: inline-block;
+
+
+    /* h2 is block level element so 
+    it contain the full line. so conver 
+    into endline element */
+}
+
+span{
+    text-align: center;
+    /* span is a endline block so just
+    center does not work otherhand h3 is 
+    block level. so use for span display block*/
+    /* display: block; */
+}
+
+/* ul, li are block lavel so make inline using display*/
+ul, li{
+    display: inline;
+}

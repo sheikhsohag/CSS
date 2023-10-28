@@ -1,0 +1,31 @@
+.atag{
+    color: #fff;
+    font-family: tohoma;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.atag:link{
+    text-decoration: none;
+    background: #333;
+}
+
+/* visited */
+.atag:visited{
+    background: red;
+    color: yellow;
+}
+/* that is done by tag which is also done by class */
+
+/* when mouce icon over the link    */
+/* jeta  */
+.atag:hover{
+    background: yellow;
+    color: red;
+}
+
+/* when click */
+.atag:active{
+    background: green;
+    color: #333;
+}
